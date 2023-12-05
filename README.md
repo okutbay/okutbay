@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="" title="" alt="" width="40" height="40"/>&nbsp;  
 -->
 
-### :hammer_and_wrench: Languages and Tools :
+### 🌱Languages and Tools :
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="C Sharp" alt="C Sharp" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
 
-### :fire: My Stats :
+### ⚡My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=okutbay&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
