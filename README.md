@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 ### ⚡My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=okutbay&theme=dark&background=000000)](http://cut.lu/ozan)
+[![GitHub Streak](https://streak-stats.demolab.com?user=okutbay&theme=dark&stroke=EB9F11&background=45%2C0B0A0A%2C762A2A)](https://git.io/streak-stats)
 
 
 
